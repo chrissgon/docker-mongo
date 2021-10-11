@@ -1,0 +1,11 @@
+{
+  "nome": "Christopher",
+  "idade": 18,
+  "hobbies": ["futebol", "programar"],
+  "matriculado": true,
+  "materias": {
+      "portugues": 10,
+      "matematica": 3.8,
+      "artes": 7.6 
+  }
+}
